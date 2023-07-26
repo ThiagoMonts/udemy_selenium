@@ -1,0 +1,3 @@
+Comando para instalação do WebDriver do Chrome
+pip install webdriver_manager
+

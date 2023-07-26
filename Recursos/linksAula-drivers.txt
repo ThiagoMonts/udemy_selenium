@@ -1,0 +1,16 @@
+Link driver Chrome
+https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+Link driver Opera
+https://github.com/operasoftware/operachromiumdriver/releases
+
+Link driver Mozilla Firefox
+https://github.com/mozilla/geckodriver/releases
+
+Link driver Edge
+https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
+Link dotnet 3.5
+https://docs.microsoft.com/en-us/dotnet/framework/install/dotnet-35-windows-10
+
+
