@@ -37,8 +37,11 @@ Neste curso foi utilizada a seguinte tecnologia:
 
 ## 📜 Certificado
 
-- [Certificado](https://github.com/ThiagoMonts/udemy_selenium/blob/main/.github/Thiago%20Honorato%20da%20Silva%20-%20%20Extra%C3%A7%C3%A3o%20de%20dados%20da%20WEB%20com%20Python%20e%20Selenium.pdf)
+Conclusão do Curso: 25/07/2023
 
+<p align="center">
+  <img alt="certificado" src=".github/Thiago Honorato da Silva -  Extração de dados da WEB com Python e Selenium.jpg" width="100%">
+</p>
 <br>
 
 ## :memo: Licença
